@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkushwaha798&show_icons=true&locale=en" alt="anuragkushwaha798" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkushwaha798&" alt="anuragkushwaha798" /></p>
-[![anuragkushwaha798's GitHub | Languages Over Time](https://stats.quine.sh/anuragkushwaha798/languages-over-time?theme=light)](https://quine.sh)
-[![anuragkushwaha798's GitHub | Topics Over Time](https://stats.quine.sh/anuragkushwaha798/topics-over-time?theme=light)](https://quine.sh)
